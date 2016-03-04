@@ -1,5 +1,7 @@
 <?php
 
+use openapi\Client;
+
 class Example {
   public static $rooturl;
   public static $bRaw;
